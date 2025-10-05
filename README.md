@@ -78,8 +78,4 @@ For questions, concerns, or rights requests, contact:
 - **Email**: yudi.hasan00@gmail.com
 - **Address**: Jln. Sutera Kirana V No. 107, Alam Sutera, Tangerang Selatan, Banten, Indonesia
 
-### 10. License [NEW]
-
-This privacy policy is protected under a custom copyright notice. See the [LICENSE](LICENSE) file for details.
-
 Last Updated: October 6, 2025
